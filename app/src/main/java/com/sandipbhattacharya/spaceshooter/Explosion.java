@@ -32,7 +32,7 @@ public class Explosion {
         this.eX = eX;
         this.eY = eY;
     }
-
+//THis code is created by prathu
     public Bitmap getExplosion(int explosionFrame){
         return explosion[explosionFrame];
     }
